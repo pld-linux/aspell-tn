@@ -21,7 +21,7 @@ Tswana dictionary (i.e. word list) for aspell.
 S³ownik tswana (lista s³ów) dla aspella.
 
 %prep
-%setup -q -n %{name}-%{version}-%{subv}
+%setup -q -n aspell5-tn-%{version}-%{subv}
 
 %build
 # note: configure is not autoconf-generated
