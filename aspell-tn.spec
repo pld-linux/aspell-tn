@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 Tswana dictionary (i.e. word list) for aspell.
 
 %description -l pl
-S³ownik tswana (lista s³ów) dla aspella.
+S³ownik (lista s³ów) tswana dla aspella.
 
 %prep
 %setup -q -n aspell5-tn-%{version}-%{subv}
