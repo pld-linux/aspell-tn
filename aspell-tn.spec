@@ -1,5 +1,5 @@
 Summary:	Tswana dictionary for aspell
-Summary(pl):	S≥ownik tswana dla aspella
+Summary(pl.UTF-8):   S≈Çownik tswana dla aspella
 Name:		aspell-tn
 Version:	1.0.1
 %define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Tswana dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik tswana (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik tswana (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell5-tn-%{version}-%{subv}
