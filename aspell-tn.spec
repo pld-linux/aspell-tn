@@ -1,5 +1,5 @@
 Summary:	Tswana dictionary for aspell
-Summary(pl.UTF-8):   Słownik tswana dla aspella
+Summary(pl.UTF-8):	Słownik tswana dla aspella
 Name:		aspell-tn
 Version:	1.0.1
 %define	subv	0
